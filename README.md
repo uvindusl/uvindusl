@@ -1,6 +1,6 @@
 ## HI 👋
 
-I'm Uvindu, 2nd-year undergraduate Software Engineer based.
+I'm Uvindu, 2nd-year undergraduate Software Engineer.
 Give my GitHub a follow!
 
 ### About me:
@@ -8,7 +8,7 @@ Give my GitHub a follow!
 - I'm living in Colombo Sri Lanka
 - I studying Software Enginnering at NIBM.
 - Im trying to build some my own web and software application now. 
-- finally, I know Python, Java, C#, JavaScript, HTML, CSS, React .
+- finally, I know Python, Java, C#, C, JavaScript, HTML, CSS, React, SQL.
 
 ### Fun facts:
 - Most of the time im playing Games. -.-
