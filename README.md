@@ -19,10 +19,3 @@ Give my GitHub a follow!
 ### checkthis heart:
 
 ![Heart](https://github.com/user-attachments/assets/2586e363-b64f-479b-a5a4-3304899f5b51)
-
-
-### #30NitesOfCode | [Check out my progress!](https://www.codedex.io/@uvindu/30-nites-of-code)
-
-![@uvindu #30NitesOfCode](https://www.codedex.io/api/petStatus?user=uvindu)
-
-
